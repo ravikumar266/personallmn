@@ -1,0 +1,36 @@
+{
+  "personas": [
+    { "id": "1", "name": "Albert Einstein" },
+    { "id": "2", "name": "Elon Musk" },
+    { "id": "3", "name": "Steve Jobs" },
+    { "id": "4", "name": "Aristotle" },
+    { "id": "5", "name": "Nikola Tesla" },
+    { "id": "6", "name": "Warren Buffett" },
+    { "id": "7", "name": "Yuval Noah Harari" },
+    { "id": "8", "name": "Neil deGrasse Tyson" },
+    { "id": "9", "name": "Barack Obama" },
+    { "id": "10", "name": "Narendra Modi" },
+    { "id": "11", "name": "Donald Trump" },
+    { "id": "12", "name": "Sun Tzu" },
+    { "id": "13", "name": "Bill Gates" },
+    { "id": "14", "name": "Mark Zuckerberg" },
+    { "id": "15", "name": "Confucius" },
+    { "id": "16", "name": "APJ Abdul Kalam" },
+    { "id": "17", "name": "Richard Feynman" },
+    { "id": "18", "name": "Jordan Peterson" },
+    { "id": "19", "name": "Naval Ravikant" }
+  ],
+  "topics": [
+    { "id": "1", "text": "Should AI replace human decision-making in critical areas like healthcare and law?" },
+    { "id": "2", "text": "Should governments strictly regulate artificial intelligence?" },
+    { "id": "3", "text": "Will AI create more jobs than it destroys?" },
+    { "id": "4", "text": "Should social media platforms be held legally responsible for user content?" },
+    { "id": "5", "text": "Is remote work more productive than office work?" },
+    { "id": "6", "text": "Should traditional education be replaced by AI-based learning systems?" },
+    { "id": "7", "text": "Is privacy more important than national security in the digital age?" },
+    { "id": "8", "text": "Should big tech companies be broken up to prevent monopolies?" },
+    { "id": "9", "text": "Is cryptocurrency the future of global finance?" },
+    { "id": "10", "text": "Should autonomous vehicles completely replace human drivers?" }
+  ],
+  "stances": ["FOR", "AGAINST"]
+}
